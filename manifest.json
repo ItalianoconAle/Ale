@@ -1,21 +1,21 @@
 {
-  "name": "Carte Didattiche - Italiano con Alessandra",
-  "short_name": "Italiano con Ale",
+  "name": "Carte per Ale",
+  "short_name": "Per me",
   "description": "App per ripassare il lessico con carte didattiche.",
-  "start_url": "/CarteRipasso",
+  "start_url": "/Ale",
   "display": "standalone",
   "background_color": "#f5fff8",
   "theme_color": "#68A183",
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "images/app_ico7.png",
+      "src": "images/app_ico6.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any"
     },
     {
-      "src": "images/app_splash4.png",
+      "src": "images/app_splash3.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any"
