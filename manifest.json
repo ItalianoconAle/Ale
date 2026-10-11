@@ -1,8 +1,10 @@
 {
+  "id": "/Ale/",
+  "scope": "/Ale/",
   "name": "Carte per Ale",
   "short_name": "Per me",
   "description": "App per Ale.",
-  "start_url": "./index.html",
+  "start_url": "/Ale/index.html",
   "display": "standalone",
   "background_color": "#f5fff8",
   "theme_color": "#68A183",
