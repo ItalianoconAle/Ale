@@ -1,7 +1,7 @@
 {
   "name": "Carte per Ale",
   "short_name": "Per me",
-  "description": "App per ripassare il lessico.",
+  "description": "App per Ale.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f5fff8",
