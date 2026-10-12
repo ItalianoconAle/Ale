@@ -1,13 +1,13 @@
 const decks = {
   unit1: [
     { question: 'veniamoci incontro', answer: 'let\'s meet in the middle' },
-    { question: 'facciamo in nero', answer: 'let\'s so it off the books' },
+    { question: 'facciamo in nero', answer: 'let\'s do it off the books' },
     { question: 'magagna', answer: 'flaw; ailment' },
     { question: 'il chierichetto', answer: 'altar boy' },
     { question: 'sgamato', answer: 'sussed out' },
     { question: 'sgamare', answer: 'to suss out; to figure out' },
     { question: 'calarsi', answer: 'to get high; to climb down' },
-    { question: 'ci calavamo le pasticche', answer: 'We got high on pills' },
+    { question: 'ci calavamo le pasticche', answer: 'We were dropping pills' },
     { question: 'sequestrare', answer: 'seize; abduct; impound' },
     { question: 'la manodopera', answer: 'manpower' },
     { question: 'morbo di Basedow', answer: 'Graves disease' },
